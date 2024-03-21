@@ -146,7 +146,7 @@
     var $typed = $("#typed");
     if ($typed.length) {
       var typed = new Typed("#typed", {
-        strings: ["Mobile developer (iOS / Android)"],
+        strings: ["Mobile App developer"],
         loop: true,
         typeSpeed: 70
       });
